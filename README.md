@@ -1,1 +1,2 @@
-# Hi, I'm Aldin! 
+# Welcome!
+This repository is a compilation of things I have done in the home lab that I created. This will include things like building the virtualized environment, vulnerability scanning, setting up Active Directroy, and more! The repository will include the process for configuring each virtualized machine and the reasoning for the overall setup. Please start with the Main Project Outline and go from there. 
